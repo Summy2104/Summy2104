@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="AI Agent &amp; RAG Engineer">
+<defs>
+  <linearGradient id="bgdh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#111E38"/></linearGradient>
+  <linearGradient id="acdh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#39D0D8"/><stop offset="1" stop-color="#BC8CFF"/></linearGradient>
+  <linearGradient id="w1dh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F6FEB" stop-opacity=".34"/><stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/></linearGradient>
+  <linearGradient id="w2dh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1BA3B5" stop-opacity=".26"/><stop offset="1" stop-color="#1BA3B5" stop-opacity="0"/></linearGradient>
+  <pattern id="dtdh" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#58A6FF" opacity=".12"/></pattern>
+  <filter id="bldh" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="42"/></filter>
+  <clipPath id="cpdh"><rect width="1200" height="260"/></clipPath>
+</defs>
+<g clip-path="url(#cpdh)">
+  <rect width="1200" height="260" fill="url(#bgdh)"/>
+  <rect width="1200" height="260" fill="url(#dtdh)"/>
+  <g filter="url(#bldh)" opacity=".40">
+    <circle cx="180" cy="30" r="120" fill="#1F6FEB"><animate attributeName="cx" values="180;300;180" dur="17s" repeatCount="indefinite"/><animate attributeName="cy" values="30;80;30" dur="17s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="40" r="135" fill="#1BA3B5"><animate attributeName="cx" values="980;850;980" dur="21s" repeatCount="indefinite"/><animate attributeName="cy" values="40;10;40" dur="21s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="230" r="110" fill="#7C3AED" opacity=".55"><animate attributeName="cx" values="600;700;600" dur="19s" repeatCount="indefinite"/></circle>
+  </g>
+  <path d="M0,192 C100,170 300,214 400,192 C500,170 700,214 800,192 C900,170 1100,214 1200,192 C1300,170 1500,214 1600,192 L1600,260 L0,260 Z" fill="url(#w1dh)"><animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="15s" repeatCount="indefinite"/></path>
+  <path d="M0,216 C100,200 300,232 400,216 C500,200 700,232 800,216 C900,200 1100,232 1200,216 C1300,200 1500,232 1600,216 L1600,260 L0,260 Z" fill="url(#w2dh)"><animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="11s" repeatCount="indefinite"/></path>
+  <text x="600" y="86" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="13" letter-spacing="5" fill="#7D9BB8">// WELCOME TO MY CORNER OF GITHUB</text>
+  <text x="600" y="144" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-weight="700" font-size="40" fill="url(#acdh)">AI Agent &amp; RAG Engineer</text>
+  <text x="600" y="178" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="14" letter-spacing="1" fill="#8DA7C0">Python · LangGraph · MCP · Multimodal RAG · BUPT</text>
+  <rect x="586" y="190" width="28" height="3" rx="1.5" fill="#58A6FF"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
