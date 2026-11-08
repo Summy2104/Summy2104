@@ -4,11 +4,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Summy2104/Summy2104/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/Summy2104/Summy2104/main/assets/hero-light.svg" alt="AI Agent &amp; RAG Engineer — profile banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Summy2104/Summy2104/main/assets/hero-light.svg" alt="AI Agent &amp; Backend — profile banner" width="100%">
 </picture>
 
 <a href="https://github.com/Summy2104">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20SunMing%20Yang%20%F0%9F%91%8B;AI%20Agent%20%26%20RAG%20Engineer%20%C2%B7%20BUPT%20M.Sc.%20'27;Python%20%C2%B7%20LangGraph%20%C2%B7%20MCP%20%C2%B7%20FastAPI%20%C2%B7%20Milvus;Building%20agents%20that%20survive%20production" alt="Animated typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20SunMing%20Yang%20%F0%9F%91%8B;AI%20Agent%20%26%20Backend%20%C2%B7%20M.Sc.%20Computer%20Technology%20'27;AI%20agents%20%C2%B7%20multi-agent%20orchestration%20%C2%B7%20Python%20backend;Building%20agent%20tooling%20that%20survives%20production" alt="Animated typing introduction">
 </a>
 
 <p>
@@ -22,50 +22,24 @@
 
 ## 👋 Hi, I'm SunMing Yang
 
-> AI Agent & RAG Engineer — Python · LangGraph · MCP · Multimodal RAG · BUPT.
+> AI Agent & Backend — Multi-Agent Orchestration · Agent Tooling · Python Backend.
 
-- 🔭 **Now** — Master's candidate in Computer Technology at **BUPT** (Class of 2027); AI full-stack engineering intern at **Bitmain**.
-- 🧠 **Focus** — Self-built **Agent Runtime**, multi-agent orchestration, multimodal RAG and Agent evaluation.
-- 🛠 **Daily** — Python, FastAPI, LangGraph, MCP, Milvus, Docker — and a lot of traces.
-- 🚀 **Selected** — Built **fleetent**, an enterprise Agent platform, solo; cut contract-review Agent latency from 19.1 to 5.4 minutes.
-- 🔬 **Research** — Paper on LLM-based Visual Speech Recognition (accepted) and one patent application.
-- 🎯 **Open to** — AI application / Agent engineering opportunities starting 2027.
-- 📍 **Based in** — Beijing, China
+- 🔭 **Now** — Master's candidate in Computer Technology (Class of 2027); previously an AI full-stack engineering intern at **Bitmain**.
+- 🤖 AI agents & multi-agent orchestration
+- ⚒️ Agent / LLM developer tooling & workflows
+- ☕ Backend in Python
 
 ---
 
 ## 🧰 Tech Stack
 
-**Agent & LLM**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/LangGraph-2F81F7?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
-  <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
-</p>
-
-**Backend & Data**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Milvus-00BFA5?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-</p>
-
-**Infra & Tooling**
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/AI%20Agent-2F81F7?style=for-the-badge" alt="AI Agent">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ---
@@ -77,7 +51,7 @@
 | [retrieval-lab](https://github.com/Summy2104/retrieval-lab) | Multi-agent runtime experiments — Agent Loop, tool routing and state handling. | Python |
 | **fleetent** | Enterprise low-code Agent platform built solo: ReAct / Plan-and-Execute / YAML DAG execution, multimodal RAG with hybrid retrieval, layered context compression and dual-layer memory. | Python · FastAPI · MCP · Milvus · Docker |
 | **Agent Evaluation Platform** | Batch evaluation, LLM-as-Judge, Trace-driven failure attribution and release gates. 300 versioned cases, pass^k stability checks, 90% human–Judge agreement. | Python · React · FastAPI · PostgreSQL · Grafana |
-| [MyThesis](https://github.com/Summy2104/MyThesis) | BUPT graduate thesis LaTeX template. | TeX |
+| [MyThesis](https://github.com/Summy2104/MyThesis) | Graduate thesis LaTeX template. | TeX |
 
 ---
 
