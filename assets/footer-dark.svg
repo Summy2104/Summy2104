@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="AI Agent &amp; RAG Engineer">
+<defs>
+  <linearGradient id="bgdf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#111E38"/></linearGradient>
+  <linearGradient id="acdf" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#39D0D8"/><stop offset="1" stop-color="#BC8CFF"/></linearGradient>
+  <linearGradient id="w1df" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F6FEB" stop-opacity=".34"/><stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/></linearGradient>
+  <linearGradient id="w2df" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1BA3B5" stop-opacity=".26"/><stop offset="1" stop-color="#1BA3B5" stop-opacity="0"/></linearGradient>
+  <pattern id="dtdf" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#58A6FF" opacity=".12"/></pattern>
+  <filter id="bldf" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="42"/></filter>
+  <clipPath id="cpdf"><rect width="1200" height="120"/></clipPath>
+</defs>
+<g clip-path="url(#cpdf)">
+  <rect width="1200" height="120" fill="url(#bgdf)"/>
+  <rect width="1200" height="120" fill="url(#dtdf)"/>
+  <g filter="url(#bldf)" opacity=".40">
+    <circle cx="180" cy="30" r="120" fill="#1F6FEB"><animate attributeName="cx" values="180;300;180" dur="17s" repeatCount="indefinite"/><animate attributeName="cy" values="30;80;30" dur="17s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="40" r="135" fill="#1BA3B5"><animate attributeName="cx" values="980;850;980" dur="21s" repeatCount="indefinite"/><animate attributeName="cy" values="40;10;40" dur="21s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="230" r="110" fill="#7C3AED" opacity=".55"><animate attributeName="cx" values="600;700;600" dur="19s" repeatCount="indefinite"/></circle>
+  </g>
+  <path d="M0,42 C100,20 300,64 400,42 C500,20 700,64 800,42 C900,20 1100,64 1200,42 C1300,20 1500,64 1600,42 L1600,120 L0,120 Z" fill="url(#w1df)"><animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="15s" repeatCount="indefinite"/></path>
+  <path d="M0,66 C100,50 300,82 400,66 C500,50 700,82 800,66 C900,50 1100,82 1200,66 C1300,50 1500,82 1600,66 L1600,120 L0,120 Z" fill="url(#w2df)"><animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="11s" repeatCount="indefinite"/></path>
+  <text x="600" y="52" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="13" letter-spacing="4" fill="#7D9BB8">KEEP BUILDING · KEEP SHIPPING</text>
+</g>
+</svg>
